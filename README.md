@@ -1,73 +1,82 @@
-# Awesome-Contact-Management-Software
+# Awesome Contact Management Software [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## Top Contact Management Software Ecosystem
+> A curated list of top **Contact Management Software**, **Personal CRM**, and **Address Book** solutions — featuring both enterprise/SaaS platforms and self-hosted open-source GitHub projects.
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on Personal CRM, Relationship Intelligence & Contact Organization*  
-**Last updated: March 2026**
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Contact Management Software**. These tools help professionals and teams organize contacts, track relationship history, set follow-up reminders, and enrich contact data—covering everything from lightweight address books to AI-powered personal CRMs that surface who needs attention next.
-
-**Examples** include Zoho ContactManager, HubSpot CRM, Google Contacts, Nimble, Capsule CRM, Insightly, Cloze, Covve, Follow Up Boss, and Contactually (the category leaders).
-
-**Open-source emphasis**: This section highlights every major active project for self-hosted contact management, open-source personal CRMs, and community-driven address books—ideal for individuals and organizations seeking data sovereignty and predictable costs over per-seat SaaS subscriptions.
-
-Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
-
-## Table of Contents
-- [SaaS/Hosted Platforms](#saas-products)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## SaaS/Hosted Platforms
-
-| Product | Description | Pricing (Starting) | Free Tier / Trial Limits |
-|---------|-------------|-------------------|--------------------------|
-| **[HubSpot CRM](https://www.hubspot.com/)** | Full CRM platform with contact management, deal pipelines, and email tracking. Free tools include contact management and deal pipelines; Starter tier adds task queues and chat routing . | Starter: ~$15/user/month (annual); Professional: $90/user/month (annual) + $1,500 onboarding . | **Free tools**: contact management, deal pipelines, email tracking, forms; **14-day trial** for paid plans . |
-| **[Zoho ContactManager](https://www.zoho.com/contactmanager/)** | Contact management with unlimited contacts on paid plans. Integrates with Outlook, MailChimp, and Office 365. Built-in business card scanner on iOS app . | Single User: $7/month (500 contacts, 10 deals); Smart: $12.50/month (25 users, 10,000 contacts); Super: $25/month (unlimited contacts/deals) . | **Free edition**: 500 contacts, 10 deals, 1 user . No time-limited trial mentioned for paid plans. |
-| **[Google Contacts](https://contacts.google.com/)** | Free contact management integrated with Google Workspace and Android. Syncs across devices, supports labels and groups, and integrates with Gmail . | **Free** for personal Google accounts; included with Google Workspace subscriptions | **Free forever**: unlimited contacts for personal accounts; Workspace plans from $7/user/month . |
-| **[Nimble](https://www.nimble.com/)** | AI-driven personal CRM focused on relationship management. Contact enrichment, email engagement tracking, and social insights. Integrates with Microsoft 365 and Google Workspace . | $24.90/user/month (annual); $29.90/user/month (monthly) . | **14-day free trial** (no credit card; up to 5 licenses). No permanent free tier . |
-| **[Capsule CRM](https://capsulecrm.com/)** | Simple, user-friendly CRM for small businesses. Contact and account management, sales pipelines, and email integration. Free plan for up to 2 users . | Starter: $18/user/month (annual); Growth: $36; Advanced: $54; Ultimate: $72 . | **Free**: up to 2 users, 250 contacts, 1 sales pipeline; **14-day trial** for paid plans (no card required) . |
-| **[Insightly](https://www.insightly.com/)** | CRM with contact management, project tracking, and workflow automation. Plus tier for small teams; Professional adds lead routing; Enterprise adds sandboxes and audit logging . | Plus: $29/user/month (annual); Professional: $49; Enterprise: $99 . | **Free trial** available (no credit card); no permanent free tier . |
-| **[Cloze](https://www.cloze.com/)** | AI-powered relationship management CRM. Automatically tracks email, calls, and meetings to keep contact records current. Free plan includes contact management and email inbox . | Cloze Pro: ~$17/month flat rate (Capterra listing); Business: quote-only ($500/month minimum) . | **Free plan**: contact management and email inbox; **14-day trial** for Pro/Business (no credit card) . |
-| **[Covve](https://covve.com/)** | Personal CRM with business card scanning, contact enrichment, and relationship tracking. Essential plan for individuals; Pro adds team features and CRM mapping . | Essential: $12/seat/month ($119/year); Pro: $20/seat/month ($199/year) . | **Free trial** available (full access to chosen plan). No permanent free tier; contacts captured during trial remain accessible . |
-| **[Follow Up Boss](https://www.followupboss.com/)** | Real estate-focused CRM with contact management, lead routing, and team collaboration. Grow plan for solo agents; Pro and Platform for teams . | Grow: $69/month per user; Pro: $499/month (includes 10 users); Platform: $1,000/month (includes 30 users) . | **Free trial** available (no contract, cancel anytime) . No permanent free tier. |
-| **[Contactually](https://www.contactually.com/)** | Relationship-based CRM that buckets contacts and prompts follow-ups. Positioned for professionals who manage large networks. | $69/month starting price (Software Advice listing) . | No free trial or free version details in search results; demo via sales . |
-
-## Open-Source GitHub Projects
-
-| Project | Star Badge | Description |
-|---------|------------|-------------|
-| **[Monica](https://github.com/monicahq/monica)** | [![Stars](https://img.shields.io/github/stars/monicahq/monica?style=social&color=white)](https://github.com/monicahq/monica/stargazers) | Open-source personal CRM for managing personal relationships. Tracks contacts, conversations, reminders, gifts, and debts. Self-hostable; designed for individuals rather than sales teams . |
-| **[EspoCRM](https://github.com/espocrm/espocrm)** | [![Stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers) | Lightweight open-source CRM with contact and account management, sales pipelines, email integration, and calendar sync. Available self-hosted (free) or cloud (~€15/user/month) . |
-| **[Twenty](https://github.com/twentyhq/twenty)** | [![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers) | Modern open-source CRM positioned as a Salesforce alternative. Visual pipelines, email sync, and self-hosting support. Free plan available; paid cloud from $9/month . |
-
-### Additional Strong Open-Source Options
-
-| Project | Star Badge | Description |
-|---------|------------|-------------|
-| **[Odoo CRM](https://github.com/odoo/odoo)** | [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Open-source ERP with a full CRM module. Contact and account management, sales pipelines, email integration, and AI features. Self-hosted or cloud; modular pricing for enterprise apps . |
-| **[SuiteCRM](https://github.com/salesagility/SuiteCRM)** | [![Stars](https://img.shields.io/github/stars/salesagility/SuiteCRM?style=social&color=white)](https://github.com/salesagility/SuiteCRM/stargazers) | Open-source CRM fork of SugarCRM. Contact management, accounts, opportunities, and workflows. Widely deployed for self-hosted sales operations . |
-
-**Frameworks for building custom systems**: Combine **Monica** for personal relationship management, **EspoCRM** for team-based contact and sales pipelines, and **Twenty** for a modern Salesforce-style interface—all deployable via Docker Compose with PostgreSQL.
-
-## How to Contribute
-
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
-
-Star the repo if you find it useful!
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- Contact management platforms handle personal and business contact data; enforce role-based access, audit logging, and compliance with applicable data protection regulations (GDPR, CCPA).
-- Pricing varies significantly: Zoho ContactManager offers a free edition with 500 contacts, Capsule CRM provides a free plan for 2 users, and Cloze has a free tier with basic contact management. Most other platforms offer only time-limited trials. Follow Up Boss and Cloze Business are quote-based or high-minimum ($500/month) . Open-source alternatives require infrastructure provisioning but eliminate per-seat licensing.
+Contact management tools help professionals, sales teams, and relationship builders store interaction histories, log communications, sync address books, manage email/calendar activity, set recurring follow-up reminders, and enrich contact profiles.
 
 ---
 
-**Made for sales professionals, relationship managers, entrepreneurs, and developers building contact management infrastructure.**  
-Let's make contact management more open, accessible, and relationship-focused.
+## Table of Contents
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+- [SaaS & Hosted Platforms](#saas--hosted-platforms)
+- [Open-Source GitHub Projects](#open-source-github-projects)
+- [How to Choose: SaaS vs Open Source](#how-to-choose-saas-vs-open-source)
+- [How to Contribute](#how-to-contribute)
+- [License & Disclaimer](#license--disclaimer)
+
+---
+
+## Sector Overview & Market Dynamics
+
+The global contact management software sector is estimated at **$2.7B – $9.2B** (scaling as high as **$80B – $110B+** when viewed within the broader unified Customer Relationship Management (CRM) ecosystem), expanding at a 7%–12% CAGR fueled by automated contact enrichment and AI copilot integrations. The market is **highly fragmented**: while enterprise incumbents (Google, Salesforce, HubSpot, Zoho) capture high-volume corporate deployments, no single vendor monopolizes the sector—leaving vast market share distributed across hundreds of specialized niche CRMs, vertical-specific relationship managers, and privacy-first self-hosted open-source alternatives.
+
+---
+
+## SaaS & Hosted Platforms
+
+| Product | Valuation / Revenue | Starting Price | Free Tier / Trial Limits | Description |
+|---|---|---|---|---|
+| **[Google Contacts](https://contacts.google.com/)** | Alphabet: ~$2.1T+ Market Cap / ~$350B+ ARR | $7.00/user/month (via Google Workspace) | **Free forever**: 100% free with unlimited contacts (up to 25,000 personal contacts) on personal Google accounts. Workspace plans start from $7/user/month. | Cloud-native contact management and address book natively synchronized across Android, Gmail, and Google Workspace ecosystems. |
+| **[HubSpot CRM](https://www.hubspot.com/)** | ~$30B+ Market Cap / ~$2.5B+ ARR | $15.00/user/month (annual billing) | **Free forever plan**: Up to 1,000,000 contacts and 1 user seat with deal pipelines, forms, and email tracking. Paid tiers provide a **14-day free trial** (no credit card required). | Inbound CRM suite offering contact timeline tracking, meeting scheduling, email logging, and marketing automation. |
+| **[Zoho ContactManager](https://www.zoho.com/contactmanager/)** | Zoho Corp: ~$1B+ ARR (Bootstrapped) | $7.00/user/month (Single User plan) | **Free forever edition**: Up to 1 user, 500 contacts, and 10 deals. Paid plans include a **15-day free trial** with full feature access. | Focused contact management with deal pipelines, business card scanning, and Microsoft 365 / Mailchimp integrations. |
+| **[Follow Up Boss](https://www.followupboss.com/)** | Zillow Group: ~$400M–$500M Acquisition / ~$25M ARR | $69.00/user/month (Grow tier) | **14-day free trial**: Full platform access for unlimited contacts, call/text logging, and lead routing (no credit card required). No permanent free tier. | Real estate relationship management system with instant lead routing, phone integration, and team collaboration. |
+| **[Insightly](https://www.insightly.com/)** | ~$37M ARR / ~$38M Total Funding | $29.00/user/month (Plus plan, annual) | **14-day free trial**: Access to Plus tier features with lead routing and milestone tracking. No permanent free tier. | Contact and relationship management paired with integrated project delivery pipelines and workflow automation. |
+| **[Capsule CRM](https://capsulecrm.com/)** | ~$7M ARR (Zestia Ltd) | $18.00/user/month (Starter tier, annual) | **Free forever plan**: Up to 2 users, 250 contacts, and 50MB storage. Paid tiers offer a **14-day free trial** (no credit card required). | Lightweight, user-friendly CRM and contact organizer built for small businesses and consultancies. |
+| **[Nimble](https://www.nimble.com/)** | ~$5M ARR / Bootstrapped & Seed | $24.90/user/month (annual billing) | **14-day free trial**: Full access up to 5 user licenses with contact enrichment and email tracking (no credit card required). No permanent free tier. | Social relationship management platform providing automated contact profile enrichment and inbox synchronization. |
+| **[Cloze](https://www.cloze.com/)** | ~$1M ARR | $17.00/user/month (Cloze Pro) | **Free forever plan**: Basic contact management, email inbox, and interaction history. Pro/Business tiers provide a **14-day free trial** (no credit card required). | AI-driven relationship manager that automatically syncs email, call records, and calendar events into customer timelines. |
+| **[Covve](https://covve.com/)** | ~$5M Total Funding / ~$200K ARR | $12.00/seat/month ($119 billed annually) | **14-day free trial**: Full access to AI business card scanning and relationship reminders. No permanent free tier (scanned contacts remain accessible). | Mobile-first personal CRM and networking assistant featuring AI business card recognition and automated follow-up cadences. |
+
+---
+
+## Open-Source GitHub Projects
+
+Curated self-hosted contact managers, open-source personal CRMs, CardDAV address books, and ERP contact engines. Ranked by GitHub stargazer count:
+
+| Project | GitHub Stars | Technology Stack | Description |
+|---|---|---|---|
+| **[Twenty](https://github.com/twentyhq/twenty)** | [![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers) | TypeScript, React, NestJS, PostgreSQL | Modern open-source CRM alternative to Salesforce with contact management, custom relational objects, and visual pipelines. |
+| **[Odoo](https://github.com/odoo/odoo)** | [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Python, JavaScript, PostgreSQL | Comprehensive open-source ERP platform featuring dedicated contact and CRM modules, lead scoring, and communication tracking. |
+| **[Monica](https://github.com/monicahq/monica)** | [![Stars](https://img.shields.io/github/stars/monicahq/monica?style=social&color=white)](https://github.com/monicahq/monica/stargazers) | PHP, Laravel, Vue.js, MySQL | Celebrated open-source personal CRM engineered to record personal relationships, significant dates, conversations, gifts, and notes. |
+| **[Roundcube Webmail](https://github.com/roundcube/roundcubemail)** | [![Stars](https://img.shields.io/github/stars/roundcube/roundcubemail?style=social&color=white)](https://github.com/roundcube/roundcubemail/stargazers) | PHP, JavaScript, MySQL/SQLite | Browser-based multilingual email client featuring a full-featured LDAP and CardDAV contact management and address book engine. |
+| **[GLPI](https://github.com/glpi-project/glpi)** | [![Stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers) | PHP, MariaDB/MySQL | Open-source asset, service management, and CRM tool featuring centralized directory contacts, supplier records, and relationship mapping. |
+| **[SuiteCRM](https://github.com/SuiteCRM/SuiteCRM)** | [![Stars](https://img.shields.io/github/stars/SuiteCRM/SuiteCRM?style=social&color=white)](https://github.com/SuiteCRM/SuiteCRM/stargazers) | PHP, Symfony, MariaDB | Enterprise-grade open-source CRM with granular contact management, account histories, workflow automations, and reporting. |
+| **[Radicale](https://github.com/Kozea/Radicale)** | [![Stars](https://img.shields.io/github/stars/Kozea/Radicale)](https://github.com/Kozea/Radicale/stargazers) | Python | Lightweight, privacy-focused CalDAV and CardDAV address book server for cross-device contact synchronization. |
+| **[EspoCRM](https://github.com/espocrm/espocrm)** | [![Stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers) | PHP, Backbone.js, MySQL | Fast and responsive single-page open-source CRM for managing contact records, sales leads, companies, and email threads. |
+| **[Corteza](https://github.com/cortezaproject/corteza)** | [![Stars](https://img.shields.io/github/stars/cortezaproject/corteza?style=social&color=white)](https://github.com/cortezaproject/corteza/stargazers) | Go, Vue.js, PostgreSQL | Low-code enterprise platform and open-source Salesforce alternative featuring customizable contact and account management apps. |
+| **[vdirsyncer](https://github.com/pimutils/vdirsyncer)** | [![Stars](https://img.shields.io/github/stars/pimutils/vdirsyncer?style=social&color=white)](https://github.com/pimutils/vdirsyncer/stargazers) | Python | Command-line utility to synchronize CardDAV address books and CalDAV calendars between servers and local directories. |
+| **[Cypht](https://github.com/cypht-org/cypht)** | [![Stars](https://img.shields.io/github/stars/cypht-org/cypht?style=social&color=white)](https://github.com/cypht-org/cypht/stargazers) | PHP, JavaScript | Lightweight webmail and feed aggregator with integrated CardDAV address books and personal contact tracking. |
+| **[Nextcloud Contacts](https://github.com/nextcloud/contacts)** | [![Stars](https://img.shields.io/github/stars/nextcloud/contacts?style=social&color=white)](https://github.com/nextcloud/contacts/stargazers) | Vue.js, PHP | Official Nextcloud address book application for private, self-hosted contact management synced via standard CardDAV. |
+
+---
+
+## How to Choose: SaaS vs Open Source
+
+- **Choose SaaS Platforms** when you require instant onboarding, out-of-the-box email/calendar synchronizations (Google Workspace, Office 365), automated contact data enrichment, mobile apps with AI business card scanners, and zero server maintenance overhead.
+- **Choose Open-Source Solutions** when data privacy, sovereignty (GDPR/HIPAA compliance), offline access, and zero per-seat licensing costs are essential. Open-source platforms like **Twenty**, **EspoCRM**, or **Monica** run cleanly under Docker Compose with PostgreSQL or MySQL backends.
+
+---
+
+## How to Contribute
+
+1. Fork this repository.
+2. Add your suggested tool or framework in the appropriate category table in descending order of stars or market scale.
+3. Ensure all links point to authoritative sources and detail accurate pricing or GitHub repositories.
+4. Open a pull request with a concise description of why the tool belongs in this curated list.
+
+---
+
+## License & Disclaimer
+
+- Distributed under the [MIT License](LICENSE).
+- This repository is a community-curated research directory and is not affiliated with or endorsed by any software vendor listed.
+- All product names, logos, and brands are property of their respective owners.
