@@ -8,7 +8,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome List" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Contact-Management-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Contact-Management-Software?style=social&color=white" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Contact-Management-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Contact-Management-Software?style=social&color=white" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Contact-Management-Software/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Contact-Management-Software?style=social&color=white" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Contact-Management-Software/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHubffollowers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -58,7 +58,7 @@ The global contact management software sector is estimated at **$2.7B – $9.2B*
 
 Curated self-hosted contact managers, open-source personal CRMs, CardDAV address books, and ERP contact engines. Ranked by GitHub stargazer count:
 
-| Project | ⭐ GitHub Stars | 🛠️ Technology Stack | 📝 Description |
+| Project | ⭐ GitHub_Stars | 🛠️ Technology Stack | 📝 Description |
 |---|---|---|---|
 | **[Twenty](https://github.com/twentyhq/twenty)** | [![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers) | TypeScript, React, NestJS, PostgreSQL | Modern open-source CRM alternative to Salesforce with contact management, custom relational objects, and visual pipelines. |
 | **[Odoo](https://github.com/odoo/odoo)** | [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Python, JavaScript, PostgreSQL | Comprehensive open-source ERP platform featuring dedicated contact and CRM modules, lead scoring, and communication tracking. |
@@ -103,7 +103,7 @@ Every bit of support helps keep this index factual, unbiased, and continuously m
 ## 🤝 How to Contribute
 
 1. Fork this repository.
-2. Add your suggested tool or framework in the appropriate category table in descending order of stars or market scale.
+2. Add your suggested tool or framework in the appropriate category table in descending order of GitHub_Stars or market scale.
 3. Ensure all links point to authoritative sources and detail accurate pricing or GitHub repositories.
 4. Open a pull request with a concise description of why the tool belongs in this curated list.
 
