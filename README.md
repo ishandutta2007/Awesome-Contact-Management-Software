@@ -1,6 +1,6 @@
 # Awesome-Contact-Management-Software
 
-# Top Contact Management Software Ecosystem
+## Top Contact Management Software Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Personal CRM, Relationship Intelligence & Contact Organization*  
